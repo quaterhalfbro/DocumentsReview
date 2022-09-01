@@ -1,5 +1,7 @@
 # DocSuggestor
 
+Demo: http://hakathon.website.yandexcloud.net/
+
 Наш сервис сделает всю работу за вас :)))
 
 Сервис на данный момент работает только с документами типа .docx,
